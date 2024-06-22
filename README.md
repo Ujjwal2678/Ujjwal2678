@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ujjwal2678
 - 👀 I’m interested in anything that intrigues me.
-- 🌱 I’m currently learning web development .
-- 💞️ I’m looking to collaborate on nothing (for time being)
+- 🌱 I’m currently learning web development and machine learning .
+- 💞️ I’m looking to collaborate on things related to web dev and ml .
 - 📫 How to reach me via my mail (ujjwalsingh2678@gmail.com) .
 
 <!---
